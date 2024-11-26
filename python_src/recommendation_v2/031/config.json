@@ -1,0 +1,18 @@
+{
+    "columna_prompt": {
+        "price": [
+            0.10
+        ]
+    },
+    "columnas_outputs": [
+        "nft",
+        "name",
+        "description",
+        "intUrl"
+    ],
+    "filtro_colaborativo": [],
+    "umbral_similitud": 0.4,
+    "num_recomendaciones": 1,
+    "n_token": 2,
+    "json_file": "interest_031.json"
+}
